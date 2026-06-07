@@ -1,4 +1,4 @@
-<img width="1200" height="233" alt="Screenshot 2026-06-07 at 7 36 03 PM" src="https://github.com/user-attachments/assets/e9f7b5a0-0a8b-42db-a842-de9272d4584d" />
+<img width="1200" height="400" alt="Screenshot 2026-06-07 at 7 36 03 PM" src="https://github.com/user-attachments/assets/e9f7b5a0-0a8b-42db-a842-de9272d4584d" />
 
 # 🎬 IMDB Movie Data Analysis and NLP-Based Genre Prediction
 
